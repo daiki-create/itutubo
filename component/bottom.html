@@ -1,0 +1,39 @@
+<div class="row">
+
+
+
+<nav style="width: 960px; margin: auto;max-width: 100%;"
+     class="nav fixed-bottom  bg-dark">
+
+
+
+    <div class="col-md-6 col-6 nav-item"
+    style="float: right;
+    white-space: nowrap">
+        おすすめしたい商品は
+        ありますか？
+
+    </div>
+    <div class="col-md-6 col-6 nav-item">
+        <button style="margin: auto; color:white;
+                font-weight: bold;
+                font-size: 20px;
+                float: right;
+                background-color: #abdde5;
+                box-shadow: 2px 2px 4px  lightgray;
+                margin-bottom: 10px"
+                type="button"
+                class="btn rounded-pill"
+                onclick="open_add_modal()">
+            ＋投稿
+        </button>
+    </div>
+</nav>
+    <script>
+        function open_add_modal() {
+            document.getElementById("add-mask").style.display="block"
+            document.getElementById("add-modal").style.display="block"
+        }
+    </script>
+</div>
+
