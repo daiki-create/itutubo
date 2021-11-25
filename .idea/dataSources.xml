@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="http://192.168.2.101" uuid="2b8b2db0-400b-4d49-a0a4-928461ead38b">
+      <driver-ref>cassandra</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.dbschema.CassandraJdbcDriver</jdbc-driver>
+      <jdbc-url>http://192.168.2.101</jdbc-url>
+    </data-source>
+  </component>
+</project>
