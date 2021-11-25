@@ -1,0 +1,29 @@
+.follow-modal-content{
+    width: 400px;
+    top: 140px;
+    left: 70px;
+}
+.add-modal{
+    width:400px;
+    top: 100px;
+    left: 70px;
+    border-radius: 4px;
+    max-height: 80%;
+}
+
+.add2-modal,
+.back-modal,
+.icon-modal{
+    width: 400px;
+    top: 100px;
+    left: 70px;
+    max-height: 80%;
+}
+
+.follow-table{
+    width: 400px;
+}
+.follow-center{
+    width: 100px;
+}
+

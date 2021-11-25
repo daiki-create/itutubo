@@ -1,0 +1,96 @@
+
+.row .top-image{
+    width: 380px;
+}
+.others-back{
+    width: 380px;
+}
+.my-back{
+    width: 380px;
+}
+.row .top-text {
+    display: flex;
+    position: absolute;
+    top:25px;
+    left:50px;
+}
+.itutubo{
+    font-size: 80px;
+}
+.itutubo-paragraf{
+    margin-top: 30px;
+    font-weight: 600;
+}
+.my-top-contents{
+    display: flex;
+}
+.icon{
+    width: 100px;
+}
+.itemPage-icon{
+    width: 50px;
+}
+.one-card{
+    width: 180px;
+}
+.cards-row{
+    width: 380px;
+}
+.item-image{
+    width: 380px;
+    height: 380px;
+}
+.top-nav{
+    width: 380px;
+}
+
+
+.name-id{
+    margin-top: 30px;
+}
+.follow-modal-content{
+    width: 300px;
+    top: 140px;
+    left: 40px;
+}
+.add-modal{
+    width: 300px;
+    top: 100px;
+    left: 40px;
+    border-radius: 4px;
+    max-height: 70%;
+}
+
+.add2-modal,
+.icon-modal,
+.back-modal{
+    width: 300px;
+    top: 100px;
+    left: 40px;
+    max-height: 70%;
+}
+.under-top-nav{
+    margin-top: 100px;
+}
+.search-tr{
+    width: 360px;
+}
+.table{
+    width: 380px;
+    margin-top: 100px;
+}
+.top-contents{
+    left: 0px;
+}
+.follow-table{
+    width: 300px;
+    margin-top: 0px;
+}
+.follow-center{
+    width: 100px;
+}
+.query-form{
+    width: 380px;
+}
+
+

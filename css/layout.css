@@ -1,0 +1,167 @@
+
+body{
+    margin: auto;
+    width: 960px;
+    max-width: 100%;
+}
+
+.left-nav{
+    float: left;
+
+}
+.right-nav{
+    float: right;
+}
+.center-nav{
+    margin: auto;
+    color: #f1b0b7;
+}
+nav{
+    padding-top:15px ;
+    color: white;
+
+}
+nav a{
+    color: white;
+}
+nav a:hover{
+    color: lightblue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+.row .top-text {
+    position: absolute;
+    top:50px;
+    left:300px;
+}
+.itutubo{
+    font-size: 100px;
+}
+.itutubo-paragraf{
+    font-weight: 600;
+}
+.hidden{
+    display: none;
+}
+.row .top-image{
+    width:960px;
+}
+.others-back{
+    width:960px;
+}
+.my-back{
+    width:960px;
+}
+
+.icon{
+    width: 150px;
+}
+.itemPage-icon{
+    width: 70px;
+}
+.one-card{
+    width: 300px;
+}
+.card-container{
+    margin: 0;
+}
+.top-nav{
+    width: 960px;
+}
+.item-image{
+    width: 600px;
+    height: 600px;
+}
+.top-contents{
+    left: 15px;
+}
+.my-top-contents{
+    display: flex;
+    top: 80px;
+    left: 80px;
+}
+.follow-mask,
+.add-mask,
+.add2-mask,
+.icon-mask,
+.back-mask{
+    display: none;
+    position: fixed;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    height: 120%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.follow-modal-content{
+    display: none;
+    background-color: white;
+    width: 600px;
+    position: fixed;
+    top: 100px;
+    left: 300px;
+    z-index: 3;
+    border-radius: 4px;
+    overflow-y: auto;
+    max-height: 70%;
+    padding: 5px;
+}
+.fixed-top,
+.fixed-bottom{
+    z-index: 1;
+}
+.add-modal{
+    display: none;
+    background-color: white;
+    width: 500px;
+    position: fixed;
+    top: 100px;
+    left: 300px;
+    z-index: 3;
+    border-radius: 4px;
+    overflow-y: auto;
+    max-height: 70%;
+    padding: 5px;
+}
+.add2-mask{
+    z-index: 3;
+}
+.add2-modal,
+.icon-modal,
+.back-modal{
+    display: none;
+    background-color: white;
+    width: 500px;
+    position: fixed;
+    top: 100px;
+    left: 300px;
+    z-index: 4;
+    border-radius: 4px;
+    overflow-y: auto;
+    max-height: 80%;
+    padding: 5px;
+}
+.under-top-nav{
+    margin-top: 60px;
+}
+.follow-table{
+    width: 600px;
+}
+.follow-center{
+    width: 400px;
+}
+.add-star{
+    font-size: 70px;
+}
+.pr_sp{
+    display: none;
+}
+
+
+
+
+
+
